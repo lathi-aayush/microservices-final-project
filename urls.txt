@@ -1,0 +1,8 @@
+prodlist (Product Details, Python, port 5000)
+https://prodlist.2g97z9cl165p.us-south.codeengine.appdomain.cloud/
+
+dealerdetails (Dealer Pricing, Node.js, port 8080)
+https://dealerdetails.2g97z9cl165p.us-south.codeengine.appdomain.cloud/
+
+frontend (Dealer Evaluation frontend, port 5001)
+https://frontend.2g97z9cl165p.us-south.codeengine.appdomain.cloud/
